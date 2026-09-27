@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(176, 215, 178);
+}
+.table_1{
+    background-color: rgb(16, 157, 30);
+    stroke-color: unset;
+    lighting-color: aqua;
+}
+h1{
+    color: rgb(109, 0, 0);
+    font-style: oblique;
+}
+.table_line_1{
+    background-color: rgb(128, 158, 143);
+}
+.table_line_2{
+    background-color: rgb(93, 170, 132);
+}
+.table_line_3{
+    background-color: rgb(31, 117, 74);
+}
+.fon{
+    background-color: rgb(194, 241, 208);
+}
